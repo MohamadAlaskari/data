@@ -1,0 +1,30 @@
+{
+    "kurse": [
+        {
+            "nummer": 201,
+            "titel": "Volleyball-Training für Jugendliche",
+            "beschreibung": "Dieser Volleyballkurs ist perfekt für Jugendliche, die ihre Fähigkeiten im Volleyball verbessern möchten. Lernen Sie die Techniken des Aufschlags, des Baggerns und des Pritschens. Der Kurs fördert Teamarbeit und Strategie im Spiel. Spieler aller Erfahrungsstufen sind willkommen. Wir legen einen Schwerpunkt auf Fair Play und Sportsgeist. Der Kurs findet auf einem Outdoor-Volleyballfeld statt, daher ist sportgerechte Kleidung erforderlich.",
+            "kategorie": "Mannschaftssport",
+            "zielgruppe": "Jugendliche",
+            "map": [
+                {
+                    "ort": "Sportparksee Grambke",
+                    "lng": 8.823768944538907,
+                    "lat": 53.05302664641226
+                }
+            ],
+            "leitung": "Marie Weber",
+            "pfadbild": "assets/img/volleyball.jpg",
+            "preis": 35,
+            "zeiten": [
+                {
+                    "tag": "Montag & Mittwoch",
+                    "zeit": "08:30-10:00 Uhr"
+                }
+            ],
+            "details": [
+                "Anmeldefrei"
+            ]
+        }
+    ]
+}
