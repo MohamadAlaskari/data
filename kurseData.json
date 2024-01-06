@@ -207,7 +207,7 @@
             },
             "leitung": "Tom Winter",
             "pfadbild": "assets/img/cross-training.jpg",
-            "preis": 45,
+            "preis": 33,
             "zeiten": [
                 {
                     "tag": "Samstag",
@@ -233,7 +233,7 @@
             },
             "leitung": "Laura Meier",
             "pfadbild": "assets/img/pilates.jpg",
-            "preis": 60,
+            "preis": 20,
             "zeiten": [
                 {
                     "tag": "Montag",
