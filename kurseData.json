@@ -15,7 +15,7 @@
             },
             "leitung": "Marie Weber",
             "pfadbild": "assets/img/volleyball.jpg",
-            "preis": 35,
+            "preis": 10,
             "zeiten": [
                 {
                     "tag": "Montag & Mittwoch",
@@ -41,7 +41,7 @@
             },
             "leitung": "Lukas Berg",
             "pfadbild": "assets/img/mountainbike.jpg",
-            "preis": 60,
+            "preis": 15,
             "zeiten": [
                 {
                     "tag": "Samstag",
@@ -157,6 +157,9 @@
                 {
                     "tag": "Donnerstag",
                     "zeit": "18:00-19:30 Uhr"
+                },{
+                    "tag": "Donnerstag",
+                    "zeit": "19:00-20:30 Uhr"
                 }
             ],
             "details": [
@@ -261,7 +264,7 @@
             },
             "leitung": "Peter Schwarz",
             "pfadbild": "assets/img/golf.jpg",
-            "preis": 70,
+            "preis": 100,
             "zeiten": [
                 {
                     "tag": "Sonntag",
@@ -291,7 +294,7 @@
             },
             "leitung": "Julia Stein",
             "pfadbild": "assets/img/bogenschiessen.jpg",
-            "preis": 55,
+            "preis": 80,
             "zeiten": [
                 {
                     "tag": "Freitag",
@@ -321,7 +324,11 @@
             "zeiten": [
                 {
                     "tag": "Samstag",
-                    "zeit": "10:00-12:00 Uhr"
+                    "zeit": "13:00-14:00 Uhr"
+                },
+                {
+                    "tag": "Montag",
+                    "zeit": "14:00-15:00 Uhr"
                 }
             ],
             "details": [
@@ -349,6 +356,10 @@
                 {
                     "tag": "Dienstag",
                     "zeit": "15:00-16:30 Uhr"
+                },
+                {
+                    "tag": "Samstag",
+                    "zeit": "15:00-16:30 Uhr"
                 }
             ],
             "details": [
@@ -370,11 +381,15 @@
             },
             "leitung": "Sophie Lang",
             "pfadbild": "assets/img/yoga.jpg",
-            "preis": 45,
+            "preis": 25,
             "zeiten": [
                 {
                     "tag": "Montag",
                     "zeit": "18:00-19:30 Uhr"
+                },
+                {
+                    "tag": "Mittwoch",
+                    "zeit": "19:00-20:00 Uhr"
                 }
             ],
             "details": [
