@@ -427,7 +427,39 @@
                 "Anmeldefrei",
                 "Barrierefrei"
             ]
+        },
+        {
+            "nummer": 216,
+            "titel": "Combat Karate",
+            "beschreibung": "Tauchen Sie ein in die Welt des Combat Karate mit diesem Einsteigerkurs. Lernen Sie die grundlegenden Techniken und Selbstverteidigungsprinzipien des Combat Karate. Dieser Kurs ist ideal für alle, die ihre Kampffähigkeiten stärken, Selbstvertrauen aufbauen und ihre körperliche Fitness verbessern möchten. Keine Vorerfahrung ist nötig, da der Kurs Sie Schritt für Schritt durch die Grundlagen des Combat Karate führt. Erleben Sie die dynamische und kraftvolle Natur dieser Kampfkunst. Bringen Sie bequeme Trainingskleidung und, falls vorhanden, Schutzausrüstung mit.",
+            "kategorie": "Kampfsport",
+            "zielgruppe": "Einsteiger",
+            "address": {
+                "ort": "Bremen Martial Arts Academy",
+                "lnglat": [
+                    8.838180836289876,
+                    53.07198339192893
+                ]
+            },
+            "leitung": "Sophie Lang",
+            "pfadbild": "assets/img/CombatKarate.jpg",
+            "preis": 25,
+            "zeiten": [
+                {
+                    "tag": "Montag",
+                    "zeit": "18:00-19:30 Uhr"
+                },
+                {
+                    "tag": "Mittwoch",
+                    "zeit": "19:00-20:00 Uhr"
+                }
+            ],
+            "details": [
+                "Anmeldefrei",
+                "Barrierefrei"
+            ]
         }
+        
         
     ]
 }
