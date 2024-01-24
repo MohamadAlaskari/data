@@ -157,7 +157,8 @@
                 {
                     "tag": "Donnerstag",
                     "zeit": "18:00-19:30 Uhr"
-                },{
+                },
+                {
                     "tag": "Donnerstag",
                     "zeit": "19:00-20:30 Uhr"
                 }
@@ -396,6 +397,37 @@
                 "Anmeldefrei",
                 "Barrierefrei"
             ]
+        },
+        {
+            "nummer": 214,
+            "titel": "Drachenfliegen in Frankreich",
+            "beschreibung": "Erleben Sie den Nervenkitzel des Drachenfliegens in diesem Anfängerkurs. Entdecken Sie die Grundlagen des Drachenfliegens, einschließlich Starttechniken, Flugkontrolle und Landung. Dieser Kurs ist ideal für Abenteuerlustige, die die Freiheit des Fliegens erleben und ihre Flugfähigkeiten entwickeln möchten. Keine Vorerfahrung ist nötig, da der Kurs Sie Schritt für Schritt in die Welt des Drachenfliegens einführt. Genießen Sie atemberaubende Aussichten und die unvergleichliche Erfahrung des freien Flugs. Bringen Sie bequeme Kleidung und, falls vorhanden, Ihre eigene Flugausrüstung mit.",
+            "kategorie": "Outdoor",
+            "zielgruppe": "Einsteiger",
+            "address": {
+                "ort": "Französische Alpen",
+                "lnglat": [
+                    6.864716, 45.832623
+                ]
+            },
+            "leitung": "Sophie Lang",
+            "pfadbild": "assets/img/Drachenfliegen.jpg",
+            "preis": 25,
+            "zeiten": [
+                {
+                    "tag": "Montag",
+                    "zeit": "18:00-19:30 Uhr"
+                },
+                {
+                    "tag": "Mittwoch",
+                    "zeit": "19:00-20:00 Uhr"
+                }
+            ],
+            "details": [
+                "Anmeldefrei",
+                "Barrierefrei"
+            ]
         }
+        
     ]
 }
